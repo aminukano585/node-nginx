@@ -1,0 +1,23 @@
+{
+  "name": "node-nginx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminukano585/node-nginx.git"
+  },
+  "author": "aminukano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminukano585/node-nginx/issues"
+  },
+  "homepage": "https://github.com/aminukano585/node-nginx#readme"
+}
